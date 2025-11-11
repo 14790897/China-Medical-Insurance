@@ -91,7 +91,7 @@
           <mxGeometry x="396" y="405.00000000000006" width="81" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dGoyk-tfxZ9PXUSBe2lM-3" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="376" y="168" width="120" height="60" as="geometry" />
+          <mxGeometry x="384" y="182" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cnTVFmawlj7cKAnSD6l6-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Edge Distance&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(\(\delta_r\) )&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="dGoyk-tfxZ9PXUSBe2lM-3" vertex="1">
           <mxGeometry x="16" y="10" width="88" height="41" as="geometry" />
