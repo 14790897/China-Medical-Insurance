@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="cnTVFmawlj7cKAnSD6l6-15" value="Orthogonal distribution" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="cnTVFmawlj7cKAnSD6l6-14" vertex="1" connectable="0">
           <mxGeometry x="0.0064" y="-2" width="131" height="26" relative="1" as="geometry">
-            <mxPoint x="-135" y="-6" as="offset" />
+            <mxPoint x="-138" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cnTVFmawlj7cKAnSD6l6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cnTVFmawlj7cKAnSD6l6-1" target="cnTVFmawlj7cKAnSD6l6-3" edge="1">
